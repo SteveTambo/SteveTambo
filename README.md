@@ -1,7 +1,7 @@
 - 👋 Hi, my name is @SteveTambo
-- 👀 I’m interested in data science and financial analytics
-- 🌱 I have a Bachelor's in Commerce specializing in Information Systems from UCT and I am currently completing various Data Science certifications, IBM being the most recent
-- 💞️ I’m looking to collaborate on any financial analysis projects especially where investments are concerned
+- 👀 I’m interested in software development mainly mobile apps with React Native or web apps with ReactJS
+- 🌱 I have a Bachelor's in Commerce specializing in Information Systems from University of Cape Town
+- 💞️ I’m constantly building my knwledge on full stack development using JavaScript
 - 📫 How to reach me : email stevetambo32@gmail
 
 
